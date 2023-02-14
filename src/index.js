@@ -10,5 +10,5 @@ getEl('.load-more').addEventListener('click', loadMore);
 
 export const lightbox = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
-  captionDelay: 250,
+  captionDelay: 300,
 });
